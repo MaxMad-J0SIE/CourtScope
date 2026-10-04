@@ -33,3 +33,7 @@ out/
 
 # macOS
 .DS_Store
+
+# Personal planning notes
+PLAN.md
+detailed_plan.md
